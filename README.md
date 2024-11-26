@@ -1,4 +1,4 @@
-### I'm Alex 🤡, currently studying Software Development with focus on C and C++.
+### Hi there :) I'm Alex, currently studying Software Development with focus on C and C++.
 
 <!--
 **aweissha/aweissha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
